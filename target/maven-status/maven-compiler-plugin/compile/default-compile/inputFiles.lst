@@ -1,0 +1,7 @@
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\exceptions\ExceptionResponse.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\exceptions\UnsupportedMathOperationException.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\math\SimpleMath.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\Startup.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\exceptions\handler\CustomizedResponseEntityExceptionHandler.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\controllers\MathController.java
+E:\Code\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\converters\NumberConverter.java
